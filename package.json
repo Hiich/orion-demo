@@ -1,0 +1,14 @@
+{
+  "name": "orion-demo",
+  "version": "1.0.0",
+  "description": "Demo project for Orion E2E testing - contains a known bug",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "vitest": "^3.2.1"
+  }
+}
